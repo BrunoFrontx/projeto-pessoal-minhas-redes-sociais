@@ -1,0 +1,65 @@
+body{
+    background: rgb(1, 11, 29)
+}
+.container_cabecalho{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+}
+.container__imagem{
+    width: 250px;
+    height: 250px;
+}
+.container__titulo{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive; 
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+    margin-bottom: 10px;
+  
+  
+}
+.container__profissao{
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'Permanent Marker', cursive;
+    color: aliceblue;
+    margin-bottom: 8px;
+
+}
+.container__descricao{
+    font-weight: 300;
+    font-size: 15px;
+    font-family: 'Permanent Marker', cursive;
+    color: aliceblue;
+   
+}
+.container__redes_sociais{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1em;
+}
+.container__links {
+    background: rgb(103, 201, 239);
+    border:none;
+    border-radius: 10px;
+    padding: 4px;
+    margin: 5px;
+    width: 200px;
+    text-align: center;
+   font-size: 18px;
+   
+   
+}
+a{
+    color: aliceblue;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container__image{
+    width: 20px;
+    height: 20px;
+}

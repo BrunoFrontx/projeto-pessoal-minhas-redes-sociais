@@ -1,0 +1,61 @@
+@media screen and (min-width:0px){
+
+    .container_cabecalho{
+        margin-top: 15%;
+    }
+    .container__imagem{
+        width: 150px ;
+        height: 150px;
+    }
+    .container__titulo{
+        font-size: 20px;
+    }
+    .container__profissao{
+        font-size: 14px ;
+    }
+    .container__descricao{
+        font-size: 14px;
+    }
+    .container__links{
+        width: 150px;
+    }
+    .container__links {
+        margin: 8px;
+        font-size: 14px;
+    }
+    .container__image{
+        width: 15px;
+        height: 15px;
+    }
+}
+@media screen and(min-width:760px) {
+    .container_cabecalho{
+        margin-top: 8%;
+    }
+    .container__imagem{
+        width: 250px ;
+        height: 250px;
+    }
+    .container__titulo{
+        font-size: 30px;
+    }
+    .container__profissao{
+        font-size: 18px ;
+    }
+    .container__descricao{
+        font-size: 15px;
+    }
+    .container__links{
+        width: 200px;
+    }
+    .container__links {
+        margin: 5px;
+        font-size: 18px;
+    }
+    .container__image{
+        width: 20px;
+        height: 20px;
+    }
+
+    
+}
